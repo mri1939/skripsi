@@ -1,7 +1,8 @@
 Simple Image Encryption using Hash and Random LSB Embedding<br/>
 how to: <br/>
+
 > python rgbvcs.py --help
-<br/>
+
 This is my research for my bachelor degree.<br/>
 **Slow computation and inefficient code** since i didn't have much time and i don't really understand about algorithm and data structure.<br/>
 The encryption algorithm is so simple, explained below:<br/>
